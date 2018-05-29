@@ -1,15 +1,10 @@
-/* General */
-
-* {
-  font-family: "Lato",sans-serif;
-}
 
 body {
   text-align: center;
 }
 
 
-/* Header */
+
 
 .header_inner {
   border-bottom: 4px solid #bababa;
@@ -71,13 +66,13 @@ body {
 
 }
 
-/* Main */
+
 
 main img {
-  width: 100%;
+  width: 90%;
 }
 
-/* Footer */
+
 
 footer h2 {
   text-align: left;
@@ -92,5 +87,5 @@ footer a {
 }
 
 article img {
-  width: 100%;
+  width: 90%;
 }
